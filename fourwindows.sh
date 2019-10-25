@@ -1,4 +1,6 @@
 #!/bin/bash
+#Opens four working windows in current directory, all in one screen
+# NOTE : Only works with single monitor!
 gnome-terminal
 sleep .1
 id1="$(xdotool getwindowfocus)"
