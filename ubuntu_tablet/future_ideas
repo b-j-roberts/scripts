@@ -1,1 +1,2 @@
 2 finger scroll
+detects input states change methods ( held, released, clicked, none ) & interface for using it

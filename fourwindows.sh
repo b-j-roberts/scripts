@@ -1,4 +1,5 @@
 #!/bin/bash
+# TO DO : FIX THIS GARBAGE
 #Opens four working windows in current directory, all in one screen
 # NOTE : Only works with single monitor!
 gnome-terminal
